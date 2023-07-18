@@ -65,18 +65,18 @@ Module({
   var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
 ┃${star}╭──────────────
 ┃${star}│
-┃${star}│ _*Owner*_ : ${BOT_INFO.split(";")[1]}
+┃${star}│ _*Owner*_ : Mⱥsͥteͣrͫmiήd™
 ┃${star}│ _*User*_ : ${message.senderName.replace( /[\r\n]+/gm, "" )}
 ┃${star}│ _*Mode*_ : ${MODE}
 ┃${star}│ _*Server*_ : ${__dirname.startsWith('/skl')?"Heroku":"Private (VPS)"}
 ┃${star}│ _*Available RAM*_ : ${used} of ${total}
 ┃${star}│ _*Version*_ : ${config.VERSION}
-┃${star}│
+┃${star}│254701118127
 ┃${star}│
 ┃${star}│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃${star}│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃${star}│   Mⱥsͥteͣrͫmiήd™
-┃${star}│ 
+┃${star}│     Mⱥsͥteͣrͫmiήd™
 ┃${star}╰───────────────
 ╰═════════════════⊷
 
