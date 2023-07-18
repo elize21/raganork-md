@@ -75,7 +75,7 @@ Module({
 ┃${star}│
 ┃${star}│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃${star}│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-┃${star}│   ${BOT_INFO.split(";")[0]}
+┃${star}│   Mⱥsͥteͣrͫmiήd™
 ┃${star}│ 
 ┃${star}╰───────────────
 ╰═════════════════⊷
@@ -94,7 +94,7 @@ return await message.client.sendMessage(message.jid,{
 Module({
   pattern: 'alive',
   fromMe: w,
-  desc: 'Is bot alive?'
+  desc: 'Is bot alive😎?'
 }, (async (message, match) => {
   await parseAlive(message, ALIVE)
 }))
